@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72cb9abd-c5f7-4d1f-bc2a-05bd8921d22f" name="Default" comment="" />
+    <list default="true" id="72cb9abd-c5f7-4d1f-bc2a-05bd8921d22f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class1_LearnPandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/class1_LearnPandas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class2_LearnMatplotlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/class2_LearnMatplotlib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class3_LearnSeaborn.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/class3_LearnSeaborn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class4.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/class4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class5_Statsmodels.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/class5_Statsmodels.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class6_Scikit-Learn.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/class6_Scikit-Learn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iris.data" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/iris.data" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,10 +20,12 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/LearnMachine$LearnMatplotlib.coverage" NAME="LearnMatplotlib Coverage Results" MODIFIED="1536816595434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LearnMachine$class6_Scikit_Learn.coverage" NAME="class6_Scikit-Learn Coverage Results" MODIFIED="1537148253543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearnMachine$class6_Scikit_Learn.coverage" NAME="class6_Scikit-Learn Coverage Results" MODIFIED="1537230043519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearnMachine$class5_Statsmodels.coverage" NAME="class5_Statsmodels Coverage Results" MODIFIED="1537142591844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearnMachine$class1_LearnPandas.coverage" NAME="class1_LearnPandas Coverage Results" MODIFIED="1537229967222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
     <SUITE FILE_PATH="coverage/LearnMachine$LearnSeaborn.coverage" NAME="LearnSeaborn Coverage Results" MODIFIED="1536885428963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearnMachine$class4.coverage" NAME="class4 Coverage Results" MODIFIED="1536904351373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearnMachine$class1.coverage" NAME="class1 Coverage Results" MODIFIED="1537339616061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />
     <SUITE FILE_PATH="coverage/LearnMachine$LearnPandas.coverage" NAME="LearnPandas Coverage Results" MODIFIED="1536726818138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
@@ -33,49 +44,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="class5_Statsmodels.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/class5_Statsmodels.py">
+      <file leaf-file-name="class1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter2/class1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+            <state relative-caret-position="90">
+              <caret line="114" column="41" selection-start-line="114" selection-start-column="41" selection-end-line="114" selection-end-column="41" />
               <folding>
-                <element signature="e#72#91#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="class6_Scikit-Learn.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/class6_Scikit-Learn.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="46" column="48" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
-              <folding>
-                <element signature="e#106#125#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="class1_LearnPandas.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/class1_LearnPandas.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="20" selection-start-column="20" selection-end-column="20" />
-              <folding>
-                <element signature="e#49#58#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="class2_LearnMatplotlib.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/class2_LearnMatplotlib.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1366">
-              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-              <folding>
-                <element signature="e#22#41#0" expanded="true" />
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -102,6 +77,7 @@
         <option value="$PROJECT_DIR$/class4.py" />
         <option value="$PROJECT_DIR$/class5_Statsmodels.py" />
         <option value="$PROJECT_DIR$/class6_Scikit-Learn.py" />
+        <option value="$PROJECT_DIR$/chapter2/class1.py" />
       </list>
     </option>
   </component>
@@ -133,6 +109,11 @@
               <item name="LearnMachine" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearnMachine" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LearnMachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnMachine" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -146,6 +127,15 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chapter2" />
+      <recent name="$PROJECT_DIR$/chapter1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -158,8 +148,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.class6_Scikit-Learn">
-    <configuration name="LearnMatplotlib" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.class1">
+    <configuration name="class1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnMachine" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,18 +157,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class2_LearnMatplotlib.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter2/class1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="LearnSeaborn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="class1_LearnPandas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LearnMachine" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -186,12 +176,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class3_LearnSeaborn.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter1/class1_LearnPandas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,7 +200,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter1/class4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,7 +219,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class5_Statsmodels.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter1/class5_Statsmodels.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,26 +238,26 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class6_Scikit-Learn.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter1/class6_Scikit-Learn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.LearnMatplotlib" />
-      <item itemvalue="Python.LearnSeaborn" />
       <item itemvalue="Python.class4" />
       <item itemvalue="Python.class5_Statsmodels" />
       <item itemvalue="Python.class6_Scikit-Learn" />
+      <item itemvalue="Python.class1" />
+      <item itemvalue="Python.class1_LearnPandas" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.class1" />
         <item itemvalue="Python.class6_Scikit-Learn" />
+        <item itemvalue="Python.class1_LearnPandas" />
         <item itemvalue="Python.class5_Statsmodels" />
         <item itemvalue="Python.class4" />
-        <item itemvalue="Python.LearnSeaborn" />
-        <item itemvalue="Python.LearnMatplotlib" />
       </list>
     </recent_temporary>
   </component>
@@ -336,7 +326,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class3_LearnSeaborn.py">
+    <entry file="file://$PROJECT_DIR$/chapter1/class3_LearnSeaborn.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
@@ -346,14 +336,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/iris.data">
+    <entry file="file://$PROJECT_DIR$/chapter1/iris.data">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="114" column="16" selection-start-line="114" selection-start-column="16" selection-end-line="114" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class4.py">
+    <entry file="file://$PROJECT_DIR$/chapter1/class4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
@@ -363,17 +353,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class2_LearnMatplotlib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1366">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-          <folding>
-            <element signature="e#22#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class5_Statsmodels.py">
+    <entry file="file://$PROJECT_DIR$/chapter1/class5_Statsmodels.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
           <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
@@ -383,22 +363,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class1_LearnPandas.py">
+    <entry file="file://$PROJECT_DIR$/chapter2/magic.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter1/class2_LearnMatplotlib.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        <state relative-caret-position="22">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding>
+            <element signature="e#22#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter1/class6_Scikit-Learn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="999">
+          <caret line="46" column="48" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
+          <folding>
+            <element signature="e#106#125#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter1/class1_LearnPandas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-587">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#49#58#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class6_Scikit-Learn.py">
+    <entry file="file://$PROJECT_DIR$/chapter2/class1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="46" column="48" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
+        <state relative-caret-position="90">
+          <caret line="114" column="41" selection-start-line="114" selection-start-column="41" selection-end-line="114" selection-end-column="41" />
           <folding>
-            <element signature="e#106#125#0" expanded="true" />
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
